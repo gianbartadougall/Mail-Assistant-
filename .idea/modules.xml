@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Libraries/KradleLibrary/KradleLibrary.iml" filepath="$PROJECT_DIR$/../Libraries/KradleLibrary/KradleLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RentalMangementSystem.iml" filepath="$PROJECT_DIR$/RentalMangementSystem.iml" />
+    </modules>
+  </component>
+</project>
